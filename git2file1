@@ -1,0 +1,4 @@
+Moving the changes from local Repository (workspace) to Central Repository (Remote repo)
+Git push GitHubUrl
+Git remote add origin GitHubUrl
+Git Push –u Origin master
